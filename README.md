@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
-## This is where I keep the projects I made for fun
+### This is where I keep the projects I made for fun
 
-### Contatos:
+### Feel free to send a message:
 
 <div>
 <a href = "mailto:matheusplannerer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
